@@ -1,5 +1,8 @@
 import '../css/app.css';
 import './bootstrap';
+import '../admin_assets/js/app.js';
+import '../admin_assets/js/app-backup';
+
 
 import { createInertiaApp } from '@inertiajs/vue3';
 import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
